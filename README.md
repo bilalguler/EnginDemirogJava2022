@@ -1,4 +1,4 @@
-## MERHABA BU PROJEMDE ENGİN DEMİROĞ HOCA'DAN ALDIĞIM KURSA AİTTİR
+## MERHABA BU PROJEM ENGİN DEMİROĞ HOCA'DAN ALDIĞIM KURSA AİTTİR
 
 * Bu projemin içerisinde haftalık olarak dersler ve o hafta verilen ödevler olacaktır.
 
