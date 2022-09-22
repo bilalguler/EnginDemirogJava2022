@@ -1,0 +1,1 @@
+# Merhaba bu package'ımda kursun 2. haftasında yaptığımız ders ve ödevler bulunmaktadır.
